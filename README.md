@@ -224,7 +224,7 @@ path = "24.txt"
  
 Запусти:
 ```bash
-python drone_wind.py
+python analyze_log.py
 ```
  
 График сохранится как `analysis.png` рядом со скриптом.
